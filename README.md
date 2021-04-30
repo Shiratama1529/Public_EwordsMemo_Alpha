@@ -1,0 +1,3 @@
+# -Develop-EwordsMemo-Alpha-
+
+なんやこれ
