@@ -236,6 +236,10 @@ header {
     width: 80%;
 }
 
+.container-input-2 {
+    width: 30%;
+}
+
 #keyboard-modal {
     position: fixed;
     top: 0;
